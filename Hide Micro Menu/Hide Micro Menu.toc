@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: Hide Micro Menu
+## Notes: Hide the Micro Menu on Dragonflight
+## Version: 1.1
+## Author: Baz4k - twitch.tv/baz4k
+## DefaultState: enabled
+
+Hide Micro Menu.lua
